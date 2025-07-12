@@ -54,3 +54,5 @@ You can start multiple clients in separate terminals.
 Type messages to send to all clients
 
 Type exit to leave the chat
+
+output 
