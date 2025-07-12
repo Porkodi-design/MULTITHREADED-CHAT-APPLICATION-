@@ -40,18 +40,16 @@ javac ChatApp.java
 2. Run Server
 
 java ChatApp
-# Choose option 1 to start the server
 
 3. Run Client(s)
 
 Open another terminal and run:
 
 java ChatApp
-# Choose option 2 to start a client
 
 You can start multiple clients in separate terminals.
 
-💬 Chat Commands
+ Chat Commands
 
 Type messages to send to all clients
 
