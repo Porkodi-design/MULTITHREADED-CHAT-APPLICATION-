@@ -60,6 +60,4 @@ Type exit to leave the chat
 
 output : 
 
-<!-- Uploading file_00000000940461f5bc078e458a25970e (1).png"... -->
-
 
