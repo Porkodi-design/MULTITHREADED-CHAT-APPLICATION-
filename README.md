@@ -56,3 +56,5 @@ Type messages to send to all clients
 Type exit to leave the chat
 
 output : 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/48ea79ec-5832-43c7-a056-b3635c88e1d8" />
+
